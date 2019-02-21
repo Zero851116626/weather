@@ -1,6 +1,6 @@
 # myapp
 
-> A Vue.js project
+> 一款单页的天气情况展示页面，使用了高德地图的api获取用户当前ip并且获取当前ip下的天气情况，并将之渲染到页面中
 
 ## Build Setup
 
